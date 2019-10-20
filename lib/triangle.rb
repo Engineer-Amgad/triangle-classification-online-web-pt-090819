@@ -39,7 +39,8 @@ class Triangle
         :scalene
       end
 
-    end   
+    end 
+    
   end 
   
   class TriangleError < StandardError
@@ -52,3 +53,4 @@ end
 
 tri = Triangle.new(-1,0,0)
 puts "done"
+binding.pry
