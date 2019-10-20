@@ -22,11 +22,11 @@ class Triangle
   def kind 
     if !valid
       
-      begin
+      #begin
         raise TriangleError
       #rescue TriangleError => error 
         #puts error.message
-      end 
+      #end 
       
     else 
       
