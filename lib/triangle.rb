@@ -49,3 +49,5 @@ class Triangle
   
 end
 
+tri = Triangle.new(0,0,0)
+
