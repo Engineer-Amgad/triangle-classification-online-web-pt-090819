@@ -45,8 +45,7 @@ class Triangle
     def message
       "The triagle is invalid"
     end 
-  end 
+  end
+  
 end
-
-tri = Triangle.new(0,0,0)
 
