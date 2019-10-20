@@ -48,9 +48,7 @@ class Triangle
       "The triagle is invalid"
     end 
   end
-  binding.pry
+  
 end
 
-tri = Triangle.new(-1,0,0)
-puts "done"
 
